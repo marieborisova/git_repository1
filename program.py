@@ -1,8 +1,17 @@
+# Yandexlyceum
+def my_superfunction():
+    print('What an awesome print!')
+    print("Hello, my frends")
+    print('Hello, python!!!')
+
+
 def main():
     print('My first git program')
     print('And I change it every day')
-    print("Hello")
-    print()
+    print('Again')
+    print('UFO came and added this line')
+    my_superfunction()
+    print(1)
 
 
 if __name__ == '__main__':
